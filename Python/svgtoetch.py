@@ -1,3 +1,5 @@
+# By Vipul Vacharajani
+
 image = open("testfile.txt")
 rawlines = image.readlines()
 path = ""
